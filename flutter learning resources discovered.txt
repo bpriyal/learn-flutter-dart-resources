@@ -1,0 +1,20 @@
+https://www.raywenderlich.com/flutter
+https://www.raywenderlich.com/ -------------- BLoC pattern tutorial
+Reso Coder on youtube
+Felix Angelov
+Flutter Europe youtube channel
+Google Codeloabs flutter
+Google developers IO conference talks youtube
+
+Rafal Wachol: github.com/charafau : json2builtvalue JSON to Dart built_value converter
+
+https://steemit.com/utopian-io/@tensor/advanced-flutter-project---setting-up-the-basic-structure---part-one
+
+https://steemit.com/@tensor
+Tensor programming youtube
+
+https://github.com/flutter/plugins/tree/master/packages: flutter plugins
+
+FLutter community medium
+
+Implementing bloc pattern using flutter_bloc
